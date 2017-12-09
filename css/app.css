@@ -96,38 +96,43 @@ header.smaller nav a:hover {
 
 
 section#section_about {
-    padding-top: 100px;
-    padding-bottom: 200px;
+    padding-top: 80px;
+    padding-bottom: 3px;
+    background-color: maroon;
 }
 
 section#section_about h1 {
     font-family: 'Vollkorn';
     font-size: 60px;
-    color: maroon;
+    color: white;
     font-weight: 700;
     font-style: italic;
 }
 
+section#section_about h2 {
+    font-family: 'Vollkorn';
+    font-size: 35px;
+    color: white;
+    font-weight: 600;
+}
+
 .about_div_bg{
-    background-color: maroon;
-    color:white;
+    background-color: white;
+    color:maroon;
     padding:20px;
-    padding-right: 26%;
+    padding-right: 50%;
     text-align: justify;
     font-size: 18px;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 
+
 .about_feature_image {
-	
-    float: right;
+	float: right;
     z-index: 1000;
     position: relative;
-    top: -320px;
-    right: 85px;
-    height: 410px;
+    margin-top: -367px;
+    height: 367px;
 }
 
 
