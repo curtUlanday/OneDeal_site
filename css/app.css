@@ -120,9 +120,9 @@ section#section_about h2 {
     background-color: white;
     color:maroon;
     padding:20px;
-    padding-right: 50%;
+    padding-right: 30%;
     text-align: justify;
-    font-size: 18px;
+    font-size: 21px;
 }
 
 
@@ -131,8 +131,8 @@ section#section_about h2 {
 	float: right;
     z-index: 1000;
     position: relative;
-    margin-top: -367px;
-    height: 367px;
+    margin-top: -385px;
+    height: 385px;
 }
 
 
