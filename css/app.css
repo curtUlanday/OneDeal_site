@@ -94,6 +94,13 @@ header.smaller nav a:hover {
     background-color: maroon;
 }
 
+.carousel_fill{
+    width:100%;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    
+}
+
 
 section#section_about {
     padding-top: 80px;
