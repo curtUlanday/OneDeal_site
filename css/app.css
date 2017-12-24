@@ -1,16 +1,29 @@
 /** normal mode **/
 
 .app_carousel_caption {
-    background-color: gray;
+    font-family: 'Vollkorn';
+    background-color: maroon;
     position: fixed;
     text-align: center;
     bottom: 127px;
     left: 36%;
     height: 430px;
     width: 430px;
-    opacity: 0.9;
+    opacity: 0.85;
     color: white;
     padding-top: 160px;
+}
+.app_carousel_caption_contact {
+    font-family: 'Vollkorn';
+    background-color: maroon;
+    position: fixed;
+    text-align: center;
+    bottom: 127px;
+    left: 60%;
+    height: 430px;
+    width: 430px;
+    opacity: 0.9;
+    color: white;
 }
 
 header {
